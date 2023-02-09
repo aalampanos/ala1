@@ -2,4 +2,3 @@
 	path = ala2
 	url = https://github.com/aalampanos/ala2.git
 	branch = main
-	ignore = dirty
